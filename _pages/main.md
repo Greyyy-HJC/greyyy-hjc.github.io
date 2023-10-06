@@ -21,9 +21,9 @@ redirect_from:
 
 I'm Jinchen, a seeker of truths—within, around, and beyond. I major in theoretical physics, also have interests in philosophy and mathematics.
 
-“Behind this mask there is more than just flesh. Beneath this mask there is an idea... and ideas are bulletproof.” ―- Alan Moore, V for Vendetta
+“Behind this mask there is more than just flesh. Beneath this mask there is an idea... and ideas are bulletproof.” ---- Alan Moore, V for Vendetta
 
-曲终人不见 江上数青峰。-- 钱起 《省试湘灵鼓瑟》
+曲终人不见 江上数青峰。---- 钱起 《省试湘灵鼓瑟》
 
 静心得意。
 
