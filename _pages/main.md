@@ -19,7 +19,13 @@ redirect_from:
 
 # 👁️‍🗨️ About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor 
+I'm Jinchen, a seeker of truths—within, around, and beyond. I major in theoretical physics, also taking interests in philosophy and mathematics.
+
+“Behind this mask there is more than just flesh. Beneath this mask there is an idea... and ideas are bulletproof.” ―- Alan Moore, V for Vendetta
+
+曲终人不见 江上数青峰。-- 钱起 《省试湘灵鼓瑟》
+
+静心得意。
 
 
 {% include_relative sub/research.md %}
