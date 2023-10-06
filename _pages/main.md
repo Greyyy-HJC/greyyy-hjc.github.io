@@ -19,7 +19,7 @@ redirect_from:
 
 # 👁️‍🗨️ About Me
 
-I'm Jinchen, a seeker of truths—within, around, and beyond. I major in theoretical physics, also taking interests in philosophy and mathematics.
+I'm Jinchen, a seeker of truths—within, around, and beyond. I major in theoretical physics, also have interests in philosophy and mathematics.
 
 “Behind this mask there is more than just flesh. Beneath this mask there is an idea... and ideas are bulletproof.” ―- Alan Moore, V for Vendetta
 
