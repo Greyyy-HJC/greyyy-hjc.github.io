@@ -27,6 +27,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 {% include_relative sub/talk.md %}
 
-{% include_relative sub/fancy.md %}
+{% include_relative sub/edu.md %}
 
-{% include_relative sub/cv.md %}
+{% include_relative sub/fancy.md %}
