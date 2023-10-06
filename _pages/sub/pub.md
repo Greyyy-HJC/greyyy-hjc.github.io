@@ -1,15 +1,15 @@
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Psychedelic Moose</div><img src='images/psychedelic_moose.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Detailed analysis of excited state systematics in a lattice QCD calculation of gA](https://arxiv.org/abs/2104.05226)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jinchen He**, David A. Brantley, Chia Cheng Chang, Ivan Chernyshev, Evan Berkowitz, Dean Howarth, Christopher Körber, Aaron S. Meyer, Henry Monge-Camacho, Enrico Rinaldi, Chris Bouchard, M.A. Clark, Arjun Singh Gambhir, Christopher J. Monahan, Amy Nicholson, Pavlos Vranas and André Walker-Loud (CalLat Collaboration)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/callat-qcd/project_fh_vs_3pt) 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
