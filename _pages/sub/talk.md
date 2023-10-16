@@ -1,6 +1,4 @@
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2023.06* "Unpolarized Nucleon TMDPDFs from LQCD", TMD workshop 2023, Stony Brook University, Stony Brook, NY, U.S.
 - *2023.05* "Nucleon TMDPDFs from Lattice QCD", Pheno 2023, University of Pittsburg, Pittsburgh, PA, U.S.
 - *2022.12* "Unpolarized Transverse-Momentum-Dependent Parton Distributions from Lattice QCD", 2022 Meeting on Lattice Parton Physics from Large-Momentum Effective Theory, DePaul University, Chicago, IL, U.S.
