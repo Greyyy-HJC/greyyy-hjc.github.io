@@ -19,3 +19,4 @@
 - [Wigner-Eckart Theorem](notes/Wigner_Eckart_Theorem.pdf)
 - [Quantum Mechanics Scattering Theory](notes/QM_scattering.pdf)
 - [Discrete Symmetry](notes/Discrete_symmetry.pdf)
+- [Fit function on Lattice QCD](notes/Fit_func_on_lattice.pdf)
