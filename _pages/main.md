@@ -23,6 +23,8 @@ I'm Jinchen, a seeker of truths—within, around, and beyond. I major in theoret
 
 To truly innovate, we must consider the differences in both tools and mindset.
 
+"The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." --- Steven Weinberg
+
 “Behind this mask there is more than just flesh. Beneath this mask there is an idea... and ideas are bulletproof.” --- Alan Moore, V for Vendetta
 
 曲终人不见 江上数青峰。--- 钱起 《省试湘灵鼓瑟》
