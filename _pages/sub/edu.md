@@ -20,3 +20,4 @@
 - [Quantum Mechanics Scattering Theory](notes/QM_scattering.pdf)
 - [Discrete Symmetry](notes/Discrete_symmetry.pdf)
 - [Fit function on Lattice QCD](notes/Fit_func_on_lattice.pdf)
+- [Beta function of QED](notes/Beta_function_of_QED.pdf)

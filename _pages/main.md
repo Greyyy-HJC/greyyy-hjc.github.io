@@ -29,6 +29,8 @@ To truly innovate, we must consider the differences in both tools and mindset.
 
 曲终人不见 江上数青峰。--- 钱起 《省试湘灵鼓瑟》
 
+已识乾坤大，犹怜草木青。长空送鸟印，留幻与人灵。--- 马一浮 《旷怡亭口占》
+
 静心得意。
 
 
