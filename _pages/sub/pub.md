@@ -1,8 +1,6 @@
 # 📝 Publications 
 
-- [Transverse-momentum-dependent pion structures from lattice QCD: Collins-Soper kernel, soft factor, TMDWF, and TMDPDF](https://arxiv.org/abs/2504.04625), D.~Bollweg, X.~Gao, **J.~He**, S.~Mukherjee and Y.~Zhao, **arXiv:2504.04625 [hep-lat]**
-
-[**LaMETLat**](https://github.com/Greyyy-HJC/LaMETLat) 
+- [Transverse-momentum-dependent pion structures from lattice QCD: Collins-Soper kernel, soft factor, TMDWF, and TMDPDF](https://arxiv.org/abs/2504.04625), D.~Bollweg, X.~Gao, **J.~He**, S.~Mukherjee and Y.~Zhao, **arXiv:2504.04625 [hep-lat]** [**LaMETLat**](https://github.com/Greyyy-HJC/LaMETLat) 
 
 - [Systematic Uncertainties from Gribov Copies in Lattice Calculation of Parton Distributions in the Coulomb gauge](https://arxiv.org/abs/2408.05910), X.~Gao, **J.~He**, R.~Zhang and Y.~Zhao, ** Chin.Phys.Lett. 41 (2024) 12**
 
@@ -23,9 +21,7 @@
 
 - [Detailed analysis of excited state systematics in a lattice QCD calculation of gA](https://arxiv.org/abs/2104.05226)
 
-**Jinchen He**, David A. Brantley, Chia Cheng Chang, Ivan Chernyshev, Evan Berkowitz, Dean Howarth, Christopher Körber, Aaron S. Meyer, Henry Monge-Camacho, Enrico Rinaldi, Chris Bouchard, M.A. Clark, Arjun Singh Gambhir, Christopher J. Monahan, Amy Nicholson, Pavlos Vranas and André Walker-Loud (**CalLat Collaboration**), **Phys. Rev. C 105, 065203 (2022)**
-
-[**Git repo**](https://github.com/callat-qcd/project_fh_vs_3pt) 
+**Jinchen He**, David A. Brantley, Chia Cheng Chang, Ivan Chernyshev, Evan Berkowitz, Dean Howarth, Christopher Körber, Aaron S. Meyer, Henry Monge-Camacho, Enrico Rinaldi, Chris Bouchard, M.A. Clark, Arjun Singh Gambhir, Christopher J. Monahan, Amy Nicholson, Pavlos Vranas and André Walker-Loud (**CalLat Collaboration**), **Phys. Rev. C 105, 065203 (2022)** [**Git repo**](https://github.com/callat-qcd/project_fh_vs_3pt) 
 </div>
 </div>
 
