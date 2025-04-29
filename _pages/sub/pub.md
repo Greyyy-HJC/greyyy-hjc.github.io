@@ -1,6 +1,10 @@
 # 📝 Publications 
 
-- [Systematic Uncertainties from Gribov Copies in Lattice Calculation of Parton Distributions in the Coulomb gauge](https://arxiv.org/abs/2408.05910), X.~Gao, **J.~He**, R.~Zhang and Y.~Zhao, **arXiv:2408.05910 [hep-lat]**
+- [Transverse-momentum-dependent pion structures from lattice QCD: Collins-Soper kernel, soft factor, TMDWF, and TMDPDF](https://arxiv.org/abs/2504.04625), D.~Bollweg, X.~Gao, **J.~He**, S.~Mukherjee and Y.~Zhao, **arXiv:2504.04625 [hep-lat]**
+
+[**LaMETLat**](https://github.com/Greyyy-HJC/LaMETLat) 
+
+- [Systematic Uncertainties from Gribov Copies in Lattice Calculation of Parton Distributions in the Coulomb gauge](https://arxiv.org/abs/2408.05910), X.~Gao, **J.~He**, R.~Zhang and Y.~Zhao, ** Chin.Phys.Lett. 41 (2024) 12**
 
 - [Comments on "Non-local Nucleon Matrix Elements in the Rest Frame"](https://arxiv.org/abs/2408.04674), X.~Gao, **J.~He**, Y.~Su, R.~Zhang and Y.~Zhao, **arXiv:2408.04674 [hep-lat]**
 
