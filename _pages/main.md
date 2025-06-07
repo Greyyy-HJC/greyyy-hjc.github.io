@@ -19,9 +19,7 @@ redirect_from:
 
 # 👁️‍🗨️ About Me
 
-I'm Jinchen, a seeker of truths—within, around, and beyond. I major in theoretical physics, also have interests in philosophy and mathematics.
-
-To truly innovate, we must consider the differences in both tools and mindset.
+This is Jinchen. I major in theoretical physics, also have interests in philosophy and data science.
 
 "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." --- Steven Weinberg
 
