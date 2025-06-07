@@ -1,5 +1,7 @@
 # 📝 Publications 
 
+- [LaMET's Asymptotic Extrapolation vs. Inverse Problem](https://arxiv.org/abs/2505.14619), J.~W.~Chen, X.~Gao, **J.~He**, J.~Hua, X.~Ji, A.~Sch\"afer, Y.~Su, W.~Wang, Y.~B.~Yang and J.~H.~Zhang, \textit{et al.}, **arXiv:2505.14619 [hep-lat]**
+
 - [Transverse-momentum-dependent pion structures from lattice QCD: Collins-Soper kernel, soft factor, TMDWF, and TMDPDF](https://arxiv.org/abs/2504.04625), D.~Bollweg, X.~Gao, **J.~He**, S.~Mukherjee and Y.~Zhao, **arXiv:2504.04625 [hep-lat]** [**LaMETLat**](https://github.com/Greyyy-HJC/LaMETLat) 
 
 - [Systematic Uncertainties from Gribov Copies in Lattice Calculation of Parton Distributions in the Coulomb gauge](https://arxiv.org/abs/2408.05910), X.~Gao, **J.~He**, R.~Zhang and Y.~Zhao, ** Chin.Phys.Lett. 41 (2024) 12**
