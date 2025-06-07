@@ -19,7 +19,7 @@ redirect_from:
 
 # 👁️‍🗨️ About Me
 
-This is Jinchen. I major in theoretical physics, also have interests in philosophy and data science.
+Hi, this is Jinchen. I major in theoretical physics, also have interests in philosophy and data science.
 
 "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." --- Steven Weinberg
 
