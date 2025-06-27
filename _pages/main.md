@@ -34,6 +34,8 @@ Hi, this is Jinchen. I major in theoretical physics, also have interests in phil
 
 {% include_relative sub/research.md %}
 
+{% include_relative sub/news.md %}
+
 {% include_relative sub/pub.md %}
 
 {% include_relative sub/talk.md %}
