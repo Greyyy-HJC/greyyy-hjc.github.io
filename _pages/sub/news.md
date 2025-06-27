@@ -9,7 +9,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">5-Day Gen AI Intensive</div><img src='images/5-Day-Gen-AI.png' alt="Sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **5-Day Gen AI Intensive**: I finished the training of the 5-day Gen AI Intensive on Kaggle.
+- **5-Day Gen AI Intensive**: I completed the 5-Day Generative AI Intensive Course with Google, which was conducted through hands-on projects and exercises deployed on the Kaggle platform.
 
 </div>
 </div>
