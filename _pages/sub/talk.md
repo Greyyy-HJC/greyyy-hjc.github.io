@@ -1,4 +1,5 @@
 # 💬 Invited Talks
+- *2025.06* "3D Imaging of the Pion on a Fine Lattice", CIPANP 2025, University of Wisconsin-Madison, Madison, WI, U.S. [\[slides\]](notes/CIPANP_Jinchen.pdf)
 - *2025.04* "Effective Field Theory for Positronium in Relativistic Motion", Nuclear Theory Seminar, University of Maryland, College Park, MD, U.S. [\[slides\]](notes/NT_seminar_Jinchen.pdf)
 - *2025.03* "Nucleon PDFs from boosted correlators in CG", APS Topical Group on Hadronic Physics (GHP2025), Anaheim Convention Center, Anaheim, CA, U.S. [\[slides\]](notes/GHP_2025_Jinchen.pdf)
 - *2024.09* "Systematic Uncertainties from Gribov Copies in CG-Fixed Correlation Functions", QGT meeting 2024, Temple University, Philadelphia, PA, U.S. [\[slides\]](notes/2024_QGT_Gribov.pdf)
@@ -9,7 +10,3 @@
 - *2022.12* "Unpolarized Transverse-Momentum-Dependent Parton Distributions from Lattice QCD", 2022 Meeting on Lattice Parton Physics from Large-Momentum Effective Theory, DePaul University, Chicago, IL, U.S.
 - *2021.12* "Pion and Kaon Distribution Amplitudes with LaMET", 2021 Meeting on Lattice Parton Physics from Large-Momentum Effective Theory(Online). [\[video\]](https://www.bilibili.com/video/BV1DR4y1t7K5/?vd_source=b9d5f592c36b511171eecc182e29ea52)
 - *2021.11* "Distribution amplitudes from lattice QCD with large momentum effective theory", International Workshop on Heavy Quark Physics(Webinar), National Centre for Physics Islamabad, Pakistan.
-
-
-</div>
-</div>
