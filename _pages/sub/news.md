@@ -10,3 +10,6 @@
 <div class='paper-box-text' markdown="1">
 
 - **5-Day Gen AI Intensive**: I finished the training of the 5-day Gen AI Intensive on Kaggle.
+
+</div>
+</div>
