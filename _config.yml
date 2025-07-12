@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinchen He (何晋琛)"
+  name             : "Jinchen He \n(何晋琛)"
   avatar           : "images/jinchen.jpg"
   bio              : "Ph.D. Student in Physics"
-  location         : "Maryland, USA"
+  location         : "Illinois, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nQBmyJMAAAAJ&hl=en&oi=ao"
