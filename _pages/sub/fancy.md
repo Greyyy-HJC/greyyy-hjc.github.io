@@ -1,3 +1,5 @@
+<span class='anchor' id='-fancy'></span>
+
 # 🤯 Fancy
 
 - [Web Gobang](https://jinchen.space/Web_Gobang/)

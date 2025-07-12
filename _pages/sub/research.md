@@ -1,3 +1,5 @@
+<span class='anchor' id='-research-interests'></span>
+
 # 🔥 Research Interests
 
 - **AI Physicist** If you are interested in [AI for physics](https://github.com/Greyyy-HJC/TheoristGPT), please contact me. I am looking for collaborators.

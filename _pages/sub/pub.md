@@ -1,3 +1,5 @@
+<span class='anchor' id='-publications'></span>
+
 # 📝 Publications 
 
 - [LaMET's Asymptotic Extrapolation vs. Inverse Problem](https://arxiv.org/abs/2505.14619), J. W. Chen, X. Gao, **J. C. He**, J. Hua, X. Ji, A. Sch\"afer, Y. Su, W. Wang, Y. B. Yang and J. H. Zhang, *et al.*, **arXiv:2505.14619 [hep-lat]**

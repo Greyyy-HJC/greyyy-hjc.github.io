@@ -1,3 +1,5 @@
+<span class='anchor' id='-news'></span>
+
 # 📰 News & Updates
 
 - **New Paper Published**: Our latest research on LaMET's asymptotic extrapolation has been published on arXiv. This work addresses fundamental questions in lattice QCD calculations. [\[arXiv:2505.14619\]](https://arxiv.org/abs/2505.14619)
