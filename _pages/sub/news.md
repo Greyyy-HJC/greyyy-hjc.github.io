@@ -2,6 +2,8 @@
 
 # 📰 News & Updates
 
+- **Accepted in NeurIPS Workshop**: Our paper on Neural Transport Hybrid Monte Carlo (NTHMC) has been accepted to the NeurIPS 2025 Workshop on Machine Learning for Physical Sciences. My first venture into AI conferences.
+
 - **New Paper Published**: Our latest research on LaMET's asymptotic extrapolation has been published on arXiv. This work addresses fundamental questions in lattice QCD calculations. [\[arXiv:2505.14619\]](https://arxiv.org/abs/2505.14619)
 
 - **USQCD Grant Awarded**: Successfully secured funding for our next phase of lattice QCD research focusing on 3D imaging of the pion. [\[Pion3D\]](https://computing.fnal.gov/lqcd/allocations/)
