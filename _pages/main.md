@@ -31,7 +31,7 @@ Hi, this is Jinchen. I major in theoretical physics, also have interests in phil
 
 静心得意。
 
-You can find my CV [here](/notes/Academia_CV.pdf).
+You can find my CV [here](/notes/Jinchen_CV_updated.pdf).
 
 {% include_relative sub/research.md %}
 
