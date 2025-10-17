@@ -2,6 +2,7 @@
 
 # 🤯 Fancy
 
+- [WebGameStation](https://jinchen.space/WebGameStation/)
 - [Paper2PPT](https://jinchen.space/Paper2PPT/)
 - [Web Gobang](https://jinchen.space/Web_Gobang/)
 - [ImageFactory](http://jinchen.space/ImageFactory/)
