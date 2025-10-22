@@ -23,3 +23,4 @@
 - [Discrete Symmetry](notes/Discrete_symmetry.pdf)
 - [Fit function on Lattice QCD](notes/Fit_func_on_lattice.pdf)
 - [Beta function of QED](notes/Beta_function_of_QED.pdf)
+- [Plus distribution in QCD](notes/Plus_distribution_in_QCD.pdf)
