@@ -2,6 +2,8 @@
 
 # 📝 Publications 
 
+- [Neural Field Transformations for Hybrid Monte Carlo: Architectural Design and Scaling](https://arxiv.org/abs/2511.02018), **J. C. He**, X. Y. Jin, J. C. Osborn and Y. Zhao, **arXiv:2511.02018 [hep-lat]** [Poster](notes/NIPS_ml4ps_2025.pdf)
+
 - [LaMET's Asymptotic Extrapolation vs. Inverse Problem](https://arxiv.org/abs/2505.14619), J. W. Chen, X. Gao, **J. C. He**, J. Hua, X. Ji, A. Sch\"afer, Y. Su, W. Wang, Y. B. Yang and J. H. Zhang, *et al.*, **arXiv:2505.14619 [hep-lat]**
 
 - [Transverse-momentum-dependent pion structures from lattice QCD: Collins-Soper kernel, soft factor, TMDWF, and TMDPDF](https://arxiv.org/abs/2504.04625), D. Bollweg, X. Gao, **J. C. He**, S. Mukherjee and Y. Zhao, **arXiv:2504.04625 [hep-lat]** [**LaMETLat**](https://github.com/Greyyy-HJC/LaMETLat) 
