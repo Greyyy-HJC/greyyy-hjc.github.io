@@ -1,14 +1,18 @@
 <span class='anchor' id='-educations'></span>
 
 # 📖 Educations
-- *2022.09 - Present*, University of Maryland, College Park, Doctoral of Philosophy (Ph.D.) in Physics
+- *2022.09 - 2026.07*, University of Maryland, College Park, Doctoral of Philosophy (Ph.D.) in Physics [\[thesis\]](notes/PhD_Thesis_Jinchen.pdf) [\[defense slides\]](notes/Defense_Jinchen.pdf)
 - *2020.01 - 2020.06*, University of California, Berkeley, Exchange student in Physics
 - *2017.09 - 2021.06*, University of Chinese Academy of Sciences, Bachelor of Science (B.S.) in Physics
 
-# 📄 Teaching Experiences
-- *2022.09 - 2022.12*, Teaching Assistant, PHYS 410, Classical Mechanics, University of Maryland, College Park
+# 📄 Appointments
+- *2026.08 - 2029.08*, Postdoctoral Researcher, Fermi National Accelerator Laboratory
+- *2024.08 - 2026.07*, Research Assistant, Argonne National Laboratory
+- *2022.09 - 2026.07*, Graduate Assistant, University of Maryland, College Park
+- *2021.07 - 2022.07*, Research Assistant, Shanghai Jiao Tong University
+<!-- - *2022.09 - 2022.12*, Teaching Assistant, PHYS 410, Classical Mechanics, University of Maryland, College Park
 - *2021.04 - 2021.07*, Peer Academic Counselor, University of Chinese Academy of Sciences
-- *2021.01 - 2021.04*, Online Tutor, Group Theory, University of Chinese Academy of Sciences
+- *2021.01 - 2021.04*, Online Tutor, Group Theory, University of Chinese Academy of Sciences -->
 
 # 📒 Notes
 - [PHYS610 - Classical Mechanics - Midterm 1](notes/610_mid1_review.pdf)
