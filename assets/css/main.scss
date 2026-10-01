@@ -107,3 +107,66 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+/* Keep the introduction compact while preserving personal quotations. */
+.home-cv-link .btn {
+    margin-bottom: 0;
+}
+
+.personal-quotes {
+    margin: 0 0 1.5em;
+    padding: 0.75em 1em;
+    border: 1px solid $border-color;
+    border-radius: 4px;
+
+    summary {
+        cursor: pointer;
+        font-weight: 600;
+    }
+
+    summary:focus-visible {
+        outline: 2px solid $link-color;
+        outline-offset: 4px;
+    }
+
+    &[open] summary {
+        margin-bottom: 0.75em;
+    }
+
+    p:last-child {
+        margin-bottom: 0;
+    }
+}
+
+.news-certificate {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    margin: 1em 0;
+
+    p {
+        flex: 1;
+        margin: 0;
+    }
+
+    .news-certificate__image {
+        flex: 0 0 180px;
+        max-width: 180px;
+    }
+
+    img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border: 1px solid $border-color;
+    }
+
+    @media (max-width: 600px) {
+        display: block;
+
+        .news-certificate__image {
+            display: block;
+            max-width: 140px;
+            margin-top: 0.75em;
+        }
+    }
+}

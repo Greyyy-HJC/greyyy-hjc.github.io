@@ -1,0 +1,61 @@
+name: Update INSPIRE Publications
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'inspire_crawler/**'
+      - '_data/inspire_config.json'
+      - '_data/publication_extras.json'
+      - '.github/workflows/inspire_crawler.yaml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: inspire-publications
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test and fetch complete bibliography
+        run: |
+          python -m unittest discover -s inspire_crawler -p 'test_*.py'
+          node inspire_crawler/test_feed.js
+          python inspire_crawler/main.py --output "$RUNNER_TEMP/inspire_data.json"
+      - name: Publish data feed without changing website sources
+        shell: bash
+        run: |
+          set -euo pipefail
+          feed_dir="$RUNNER_TEMP/inspire-feed"
+          branch=$(python -c 'import json; print(json.load(open("_data/inspire_config.json"))["feed_branch"])')
+          git check-ref-format --branch "$branch"
+          if git ls-remote --exit-code --heads origin "$branch" > /dev/null; then
+            git fetch origin "$branch"
+            git worktree add --detach "$feed_dir" FETCH_HEAD
+          else
+            git worktree add --detach "$feed_dir" HEAD
+            git -C "$feed_dir" checkout --orphan "$branch"
+            git -C "$feed_dir" rm -rf .
+          fi
+          cp "$RUNNER_TEMP/inspire_data.json" "$feed_dir/inspire_data.json"
+          git -C "$feed_dir" config user.name 'github-actions[bot]'
+          git -C "$feed_dir" config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git -C "$feed_dir" add inspire_data.json
+          if ! git -C "$feed_dir" diff --cached --quiet; then
+            git -C "$feed_dir" commit -m 'Update INSPIRE bibliography and citations'
+            git -C "$feed_dir" push origin "HEAD:$branch"
+          fi

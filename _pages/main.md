@@ -1,25 +1,24 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Jinchen He, postdoctoral researcher at Fermilab working on lattice QCD, hadron structure, and AI for physics."
 author_profile: true
 redirect_from: 
   - /main/
   - /main.html
 ---
 
-<!-- {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
-
 <span class='anchor' id='about-me'></span>
 
 # 👁️‍🗨️ About Me
 
-Hi, this is Jinchen. I major in theoretical physics, also have interests in philosophy and data science.
+I am Jinchen He, a postdoctoral researcher in the theory group at Fermilab. My research focuses on lattice QCD, hadron structure, and AI for physics. I also have interests in philosophy and data science.
+
+<p class="home-cv-link"><a class="btn btn--primary" href="/notes/Jinchen_CV_updated.pdf">Download CV (PDF)</a></p>
+
+<details class="personal-quotes">
+<summary>Quotes &amp; reflections</summary>
+<div markdown="1">
 
 "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." --- Steven Weinberg
 
@@ -31,7 +30,8 @@ Hi, this is Jinchen. I major in theoretical physics, also have interests in phil
 
 静心得意。
 
-You can find my CV [here](/notes/Jinchen_CV_updated.pdf).
+</div>
+</details>
 
 {% include_relative sub/research.md %}
 

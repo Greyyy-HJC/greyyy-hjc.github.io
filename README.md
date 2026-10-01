@@ -24,7 +24,7 @@ Some examples:
 - [Personal Homepage of the author](https://rayeren.github.io/)
 
 ## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
+- **Automatically update INSPIRE-HEP publications and citations**: the official API supplies the complete bibliography for Jinchen.He.1. A daily GitHub Action publishes the refreshed feed; the website retains a local snapshot as fallback.
 - **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
 - **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
 - **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
@@ -33,10 +33,8 @@ Some examples:
 ## Quick Start
 
 1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
+1. Configure the INSPIRE bibliography using `_data/inspire_config.json` (author record `1935435`). No Google Scholar ID or API key is required. Enable GitHub Actions for the **Update INSPIRE Publications** workflow. It runs daily at 08:00 UTC and can also be started manually. The workflow writes its results to the `inspire-stats` branch; it does not overwrite the website source branch.
+1. Generate an initial or updated local snapshot with `python3 inspire_crawler/main.py`. Add personal Poster, Slides, and code links to `_data/publication_extras.json`, keyed by INSPIRE literature record ID. See [INSPIRE maintenance](docs/INSPIRE.md).
 1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
 1. Modify the configuration of your homepage `_config.yml`:
     1. `title`: the title of your homepage
@@ -46,17 +44,25 @@ Some examples:
     1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
     1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
     1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
+1. Add your homepage content in `_pages/main.md`. The publication section is rendered from INSPIRE data.
+    1. Other sections can use HTML and Markdown as before. Do not hand-edit generated publication metadata; maintain additional material links separately in `_data/publication_extras.json`.
 1. Your page will be published at `https://USERNAME.github.io`.
 
 ## Debug Locally
+
+This repository uses Ruby 3.3 for local builds. On macOS, install dependencies with:
+
+```sh
+brew install ruby@3.3
+export PATH="/opt/homebrew/opt/ruby@3.3/bin:$PATH"
+BUNDLE_PATH="$PWD/vendor/bundle" bundle install
+bash run_build.sh
+```
+
+`run_build.sh` and `run_server.sh` select Homebrew Ruby 3.3 when available and
+use the project-local `vendor/bundle` directory. They do not modify your shell
+configuration. On other platforms, provide Ruby 3.3 through your usual runtime
+manager. Generated files and installed gems are excluded from Git and the site.
 
 1. Clone your REPO to local using `git clone`.
 1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).

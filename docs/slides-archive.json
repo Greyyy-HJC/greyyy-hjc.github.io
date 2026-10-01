@@ -1,0 +1,134 @@
+[
+  {
+    "source": "slides/2024_QGT_Gribov.pdf",
+    "target": "slides/2024-09-13-qgt-jinchen-he.pdf",
+    "sha256": "6716c2f6259fbdb47b2de27500edbc1d62d3bdc09112214c624265dd9bd02d1d",
+    "action": "rename"
+  },
+  {
+    "source": "slides/2024_USQCD_AHM_Jinchen.pdf",
+    "target": "slides/2024-04-19-usqcd-all-hands-jinchen-he.pdf",
+    "sha256": "3053955f3c9d0e0402beea97e618a7e1722eab79e65cbc8a53b13aae0c4db1ed",
+    "action": "rename"
+  },
+  {
+    "source": "slides/CIPANP_Jinchen.pdf",
+    "target": "slides/2025-06-12-cipanp-jinchen-he.pdf",
+    "sha256": "4651308b576f2840ecca1aed89ef285aa687f688e578a84defe70bcb4b24b77a",
+    "action": "rename"
+  },
+  {
+    "source": "slides/Defense_Jinchen.pdf",
+    "target": "slides/2026-04-08-doctoral-defense-jinchen-he.pdf",
+    "sha256": "effe64dc9db0fd3b8e7f1738d69425983eea50ffd998cb5860587fe3eb1fd889",
+    "action": "rename"
+  },
+  {
+    "source": "slides/GHP_2025_Jinchen.pdf",
+    "target": "slides/2025-03-16-ghp-jinchen-he.pdf",
+    "sha256": "a7a84bbb6b7ee8a4537290308c54a30ca523392fca4ad5dce43f073f73d6b727",
+    "action": "rename"
+  },
+  {
+    "source": "slides/NT_seminar_Jinchen.pdf",
+    "target": "slides/2025-04-17-umd-nuclear-theory-seminar-jinchen-he.pdf",
+    "sha256": "ed97745c08c2faa3620d9cfcb3c6114bfceae7258c64343746ecb22b77abf9ab",
+    "action": "rename"
+  },
+  {
+    "source": "slides/Rising_Researcher_Jinchen.pdf",
+    "target": "slides/2026-03-10-int-rising-researcher-jinchen-he.pdf",
+    "sha256": "885925f53af9eaf8a66723cab9ad9b83ef8df0d3fb227e76d0ef44d67600ea46",
+    "action": "rename"
+  },
+  {
+    "source": "slides/SBU_seminar_Jinchen.pdf",
+    "target": "slides/2025-10-15-cfns-seminar-jinchen-he.pdf",
+    "sha256": "e4aacc4ffc4e9f52d485b5c0738e33ebcf07d38b8a05bb2e716a606dd7b01cfb",
+    "action": "rename"
+  },
+  {
+    "source": "raw/DPF2026-Jinchen.pdf",
+    "target": "slides/2026-07-22-dpf-jinchen-he.pdf",
+    "sha256": "bceb1eba22e3ceac7ff47e963234795cf989595c9ec5c12943c74a0c02ae81b9",
+    "action": "archive"
+  },
+  {
+    "source": "raw/LaMET2026-Jinchen.pdf",
+    "target": "slides/2026-07-08-lamet-jinchen-he.pdf",
+    "sha256": "396a127915029f6af45f95ec10fe8d23cdede27134c76b8c64ce373407964ac3",
+    "action": "archive"
+  },
+  {
+    "source": "raw/Lattice2026-Jinchen.pdf",
+    "target": "slides/2026-07-28-lattice-jinchen-he.pdf",
+    "sha256": "8b7e6cf935dcc622c8717e166804f0072860890f861be83d128ef7265dec16f6",
+    "action": "archive"
+  },
+  {
+    "source": "raw/New_Perspecitves_Jinchen.pdf",
+    "target": "slides/2025-07-15-new-perspectives-jinchen-he.pdf",
+    "sha256": "8af7a76809ca93cad71252a4f1b5eb4d06f61efef5b3bbf12f1f82927f2323e1",
+    "action": "archive"
+  },
+  {
+    "source": "raw/QGT_2025_Jinchen.pdf",
+    "target": "slides/2025-09-19-qgt-jinchen-he.pdf",
+    "sha256": "60c64db49c19ac5f802378a40dcf37416d51af3a5c23ebc637f1094717aff5eb",
+    "action": "archive"
+  },
+  {
+    "source": "raw/CIPANP_Jinchen.pdf",
+    "target": "slides/2025-06-12-cipanp-jinchen-he.pdf",
+    "sha256": "4651308b576f2840ecca1aed89ef285aa687f688e578a84defe70bcb4b24b77a",
+    "action": "deduplicate"
+  },
+  {
+    "source": "raw/GHP_2025_Jinchen.pdf",
+    "target": "slides/2025-03-16-ghp-jinchen-he.pdf",
+    "sha256": "a7a84bbb6b7ee8a4537290308c54a30ca523392fca4ad5dce43f073f73d6b727",
+    "action": "deduplicate"
+  },
+  {
+    "source": "raw/NIPS_ml4ps_2025.pdf",
+    "target": "notes/NIPS_ml4ps_2025.pdf",
+    "sha256": "123b329093209c20f1dd001b6e9baf2e623eefb15639dc45e6c0f2694c7f96c2",
+    "action": "deduplicate"
+  },
+  {
+    "source": "raw/Rising_Researcher_Jinchen.pdf",
+    "target": "slides/2026-03-10-int-rising-researcher-jinchen-he.pdf",
+    "sha256": "885925f53af9eaf8a66723cab9ad9b83ef8df0d3fb227e76d0ef44d67600ea46",
+    "action": "deduplicate"
+  },
+  {
+    "source": "raw/SBU_seminar_Jinchen.pdf",
+    "target": "slides/2025-10-15-cfns-seminar-jinchen-he.pdf",
+    "sha256": "e4aacc4ffc4e9f52d485b5c0738e33ebcf07d38b8a05bb2e716a606dd7b01cfb",
+    "action": "deduplicate"
+  },
+  {
+    "source": "raw/candidacy_talk.pdf",
+    "target": "slides/2025-04-17-umd-nuclear-theory-seminar-jinchen-he.pdf",
+    "sha256": "ed97745c08c2faa3620d9cfcb3c6114bfceae7258c64343746ecb22b77abf9ab",
+    "action": "deduplicate"
+  },
+  {
+    "source": "raw/gribov_lamet.pdf",
+    "target": "slides/2024-08-14-lamet-jinchen-he.pdf",
+    "sha256": "9884eda0801b7a81eb9a101e97f230d88c4f345860351c76abdca7618cf5bf92",
+    "action": "archive"
+  },
+  {
+    "source": "raw/SciDAC2026_Jinchen.pdf",
+    "target": "notes/2026-08-scidac-poster-jinchen-he.pdf",
+    "sha256": "8ab037365d83b5f4d719c114b268af9d78560e48ab81a853a2faf27e33002684",
+    "action": "archive"
+  },
+  {
+    "source": "raw/Lunch_talk_Jinchen.pdf",
+    "target": "slides/2026-04-15-argonne-student-lunch-jinchen-he.pdf",
+    "sha256": "e8a06ef6dcacffa183aece05124efff1208c9f0d0d510f9a6eb1c5d8d848355e",
+    "action": "archive"
+  }
+]

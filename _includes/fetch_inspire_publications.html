@@ -1,0 +1,32 @@
+<script>
+(function () {
+    var target = document.getElementById('inspire-publication-list');
+    if (!target) return;
+    var controller = new AbortController();
+    var timeout = setTimeout(function () { controller.abort(); }, 8000);
+    var url = 'https://raw.githubusercontent.com/{{ site.repository }}/{{ site.data.inspire_config.feed_branch }}/inspire_data.json';
+    fetch(url, {signal: controller.signal, cache: 'no-cache'})
+        .then(function (response) {
+            if (!response.ok) throw new Error('INSPIRE feed unavailable');
+            return response.json();
+        })
+        .then(function (data) {
+            if (data.schema_version !== 1 || data.author_id !== '{{ site.data.inspire_config.author_id }}' ||
+                !Array.isArray(data.publications) || !data.publications.length || typeof data.html !== 'string') {
+                throw new Error('Invalid INSPIRE feed');
+            }
+            target.innerHTML = data.html;
+            var summary = document.getElementById('inspire-publication-summary');
+            if (summary) {
+                summary.textContent = data.publications.length + ' publications · ' +
+                    (data.total_citations === null ? '' : data.total_citations + ' INSPIRE citations · ');
+                var source = document.createElement('a');
+                source.href = 'https://inspirehep.net/authors/' + data.author_id;
+                source.textContent = 'INSPIRE-HEP';
+                summary.appendChild(source);
+            }
+        })
+        .catch(function () { /* Keep the complete build-time snapshot on failure. */ })
+        .finally(function () { clearTimeout(timeout); });
+})();
+</script>

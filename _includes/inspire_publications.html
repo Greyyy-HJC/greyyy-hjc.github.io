@@ -1,0 +1,4 @@
+<p id="inspire-publication-summary">{{ site.data.inspire_publications.publications | size }} publications · {% if site.data.inspire_publications.total_citations != nil %}{{ site.data.inspire_publications.total_citations }} INSPIRE citations · {% endif %}<a href="https://inspirehep.net/authors/{{ site.data.inspire_config.author_id }}">INSPIRE-HEP</a></p>
+<div id="inspire-publication-list">
+{{ site.data.inspire_publications.html }}
+</div>

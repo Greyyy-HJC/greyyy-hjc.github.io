@@ -8,8 +8,7 @@
 # Site Settings
 title                    : "Jinchen's Page"
 description              : "Vi Veri Veniversum Vivus Vici."
-repository               : "Greyyy-HJC/webpage"
-google_scholar_stats_use_cdn : true
+repository               : "Greyyy-HJC/greyyy-hjc.github.io"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,10 +22,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jinchen He (何晋琛)"
   avatar           : "images/jinchen.jpg"
-  bio              : "Ph.D. Student in Physics"
+  bio              : "Postdoctoral Researcher at Fermilab"
   location         : "Illinois, USA"
   employer         :
   pubmed           : 
+  inspire          : "https://inspirehep.net/authors/1935435"
   googlescholar    : "https://scholar.google.com/citations?user=nQBmyJMAAAAJ&hl=en&oi=ao"
   email            : "jinchen@umd.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
@@ -65,8 +65,14 @@ include:
   - _pages
   - files
 exclude:
+  - raw
+  - AGENTS.md
   - docs
-  - google_scholar_crawler
+  - inspire_crawler
+  - vendor/bundle
+  - scripts
+  - run_build.sh
+  - run_server.sh
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

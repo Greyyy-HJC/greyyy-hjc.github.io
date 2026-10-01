@@ -1,0 +1,1174 @@
+{
+  "author_id": "1935435",
+  "author_name": "Jinchen He",
+  "author_bai": "Jinchen.He.1",
+  "source_url": "https://inspirehep.net/api/literature?q=a+Jinchen.He.1&size=5&sort=mostrecent",
+  "publications": [
+    {
+      "id": "3208418",
+      "title": "LaMET-Agent: An Agent Framework for Large-Momentum Effective Theory Analysis",
+      "authors": [
+        {
+          "name": "He, Jinchen",
+          "self": true
+        },
+        {
+          "name": "Jiang, Xiangyu",
+          "self": false
+        },
+        {
+          "name": "Yao, Fei",
+          "self": false
+        },
+        {
+          "name": "Zhao, Dian-Jun",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2609.32225"
+      ],
+      "dois": [],
+      "date": "2026-09-26",
+      "publication_info": [],
+      "collaborations": [],
+      "citations": 0,
+      "url": "https://inspirehep.net/literature/3208418"
+    },
+    {
+      "id": "3118925",
+      "title": "Nucleon Parton Distribution Functions from Boosted Correlations in the Coulomb gauge",
+      "authors": [
+        {
+          "name": "Gao, Xiang",
+          "self": false
+        },
+        {
+          "name": "He, Jinchen",
+          "self": true
+        },
+        {
+          "name": "Lin, Joshua",
+          "self": false
+        },
+        {
+          "name": "Mukherjee, Swagato",
+          "self": false
+        },
+        {
+          "name": "Petreczky, Peter",
+          "self": false
+        },
+        {
+          "name": "Zhang, Rui",
+          "self": false
+        },
+        {
+          "name": "Zhao, Yong",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2602.11283"
+      ],
+      "dois": [],
+      "date": "2026-02-11",
+      "publication_info": [],
+      "collaborations": [],
+      "citations": 11,
+      "url": "https://inspirehep.net/literature/3118925"
+    },
+    {
+      "id": "3076634",
+      "title": "Neural Field Transformations for Hybrid Monte Carlo: Architectural Design and Scaling",
+      "authors": [
+        {
+          "name": "He, Jinchen",
+          "self": true
+        },
+        {
+          "name": "Jin, Xiao-Yong",
+          "self": false
+        },
+        {
+          "name": "Osborn, James C.",
+          "self": false
+        },
+        {
+          "name": "Zhao, Yong",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2511.02018"
+      ],
+      "dois": [],
+      "date": "2025-11-03",
+      "publication_info": [
+        {
+          "conference_record": {
+            "$ref": "https://inspirehep.net/api/conferences/2963006"
+          },
+          "cnum": "C25-12-02.1"
+        }
+      ],
+      "collaborations": [],
+      "citations": 0,
+      "url": "https://inspirehep.net/literature/3076634"
+    },
+    {
+      "id": "2983629",
+      "title": "Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics Research Benchmark",
+      "authors": [
+        {
+          "name": "Zhu, Minhui",
+          "self": false
+        },
+        {
+          "name": "Tian, Minyang",
+          "self": false
+        },
+        {
+          "name": "Yang, Xiaocheng",
+          "self": false
+        },
+        {
+          "name": "Zhou, Tianci",
+          "self": false
+        },
+        {
+          "name": "Yuan, Lifan",
+          "self": false
+        },
+        {
+          "name": "Zhu, Penghao",
+          "self": false
+        },
+        {
+          "name": "Chertkov, Eli",
+          "self": false
+        },
+        {
+          "name": "Liu, Shengyan",
+          "self": false
+        },
+        {
+          "name": "Du, Yufeng",
+          "self": false
+        },
+        {
+          "name": "Ji, Ziming",
+          "self": false
+        },
+        {
+          "name": "Das, Indranil",
+          "self": false
+        },
+        {
+          "name": "Chen, Qingzhi",
+          "self": false
+        },
+        {
+          "name": "Cao, Junyi",
+          "self": false
+        },
+        {
+          "name": "Yu, Jiabin",
+          "self": false
+        },
+        {
+          "name": "Wu, Peixue",
+          "self": false
+        },
+        {
+          "name": "He, Jinchen",
+          "self": true
+        },
+        {
+          "name": "Su, Yifan",
+          "self": false
+        },
+        {
+          "name": "Jiang, Yikun",
+          "self": false
+        },
+        {
+          "name": "Zhang, Yujie",
+          "self": false
+        },
+        {
+          "name": "Liu, Chang",
+          "self": false
+        },
+        {
+          "name": "Huang, Ze-Min",
+          "self": false
+        },
+        {
+          "name": "Jia, Weizhen",
+          "self": false
+        },
+        {
+          "name": "Wang, Yunkai",
+          "self": false
+        },
+        {
+          "name": "Jafarpour, Farshid",
+          "self": false
+        },
+        {
+          "name": "Zhao, Yong",
+          "self": false
+        },
+        {
+          "name": "Chen, Xinan",
+          "self": false
+        },
+        {
+          "name": "Shelton, Jessie",
+          "self": false
+        },
+        {
+          "name": "Young, Aaron W.",
+          "self": false
+        },
+        {
+          "name": "Bartolotta, John",
+          "self": false
+        },
+        {
+          "name": "Xu, Wenchao",
+          "self": false
+        },
+        {
+          "name": "Sun, Yue",
+          "self": false
+        },
+        {
+          "name": "Chu, Anjun",
+          "self": false
+        },
+        {
+          "name": "Colussi, Victor",
+          "self": false
+        },
+        {
+          "name": "Akers, Chris",
+          "self": false
+        },
+        {
+          "name": "Brooks, Nathan",
+          "self": false
+        },
+        {
+          "name": "Fu, Wenbo",
+          "self": false
+        },
+        {
+          "name": "Zhao, Jinchao",
+          "self": false
+        },
+        {
+          "name": "Qi, Marvin",
+          "self": false
+        },
+        {
+          "name": "Mu, Anqi",
+          "self": false
+        },
+        {
+          "name": "Yang, Yubo",
+          "self": false
+        },
+        {
+          "name": "Zang, Allen",
+          "self": false
+        },
+        {
+          "name": "Lyu, Yang",
+          "self": false
+        },
+        {
+          "name": "Mai, Peizhi",
+          "self": false
+        },
+        {
+          "name": "Wilson, Christopher",
+          "self": false
+        },
+        {
+          "name": "Guo, Xuefei",
+          "self": false
+        },
+        {
+          "name": "Zhou, Juntai",
+          "self": false
+        },
+        {
+          "name": "Inafuku, Daniel",
+          "self": false
+        },
+        {
+          "name": "Xue, Chi",
+          "self": false
+        },
+        {
+          "name": "Gao, Luyu",
+          "self": false
+        },
+        {
+          "name": "Yang, Ze",
+          "self": false
+        },
+        {
+          "name": "Hein, Yaïr",
+          "self": false
+        },
+        {
+          "name": "Kahn, Yonatan",
+          "self": false
+        },
+        {
+          "name": "Zhou, Kevin",
+          "self": false
+        },
+        {
+          "name": "Luo, Di",
+          "self": false
+        },
+        {
+          "name": "Wilson, John Drew",
+          "self": false
+        },
+        {
+          "name": "Reilly, Jarrod T.",
+          "self": false
+        },
+        {
+          "name": "Bandak, Dmytro",
+          "self": false
+        },
+        {
+          "name": "Press, Ofir",
+          "self": false
+        },
+        {
+          "name": "Yang, Liang",
+          "self": false
+        },
+        {
+          "name": "Wang, Xueying",
+          "self": false
+        },
+        {
+          "name": "Tong, Hao",
+          "self": false
+        },
+        {
+          "name": "Chia, Nicolas",
+          "self": false
+        },
+        {
+          "name": "Huerta, Eliu",
+          "self": false
+        },
+        {
+          "name": "Peng, Hao",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2509.26574"
+      ],
+      "dois": [],
+      "date": "2025-09-30",
+      "publication_info": [],
+      "collaborations": [],
+      "citations": 5,
+      "url": "https://inspirehep.net/literature/2983629"
+    },
+    {
+      "id": "2922794",
+      "title": "Large-momentum effective theory’s asymptotic extrapolation vs the inverse problem",
+      "authors": [
+        {
+          "name": "Chen, Jiunn-Wei",
+          "self": false
+        },
+        {
+          "name": "Gao, Xiang",
+          "self": false
+        },
+        {
+          "name": "He, Jinchen",
+          "self": true
+        },
+        {
+          "name": "Hua, Jun",
+          "self": false
+        },
+        {
+          "name": "Ji, Xiangdong",
+          "self": false
+        },
+        {
+          "name": "Schäfer, Andreas",
+          "self": false
+        },
+        {
+          "name": "Su, Yushan",
+          "self": false
+        },
+        {
+          "name": "Wang, Wei",
+          "self": false
+        },
+        {
+          "name": "Yang, Yi-Bo",
+          "self": false
+        },
+        {
+          "name": "Zhang, Jian-Hui",
+          "self": false
+        },
+        {
+          "name": "Zhang, Qi-An",
+          "self": false
+        },
+        {
+          "name": "Zhang, Rui",
+          "self": false
+        },
+        {
+          "name": "Zhao, Yong",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2505.14619"
+      ],
+      "dois": [
+        "10.1103/fflw-qpcc"
+      ],
+      "date": "2025-05-20",
+      "publication_info": [
+        {
+          "journal_volume": "113",
+          "pubinfo_freetext": "Phys.Rev.D 113 (2026) 1, 014509",
+          "artid": "014509",
+          "material": "publication",
+          "year": 2026,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1613970"
+          },
+          "page_start": "1",
+          "journal_issue": "1",
+          "journal_title": "Phys.Rev.D"
+        }
+      ],
+      "collaborations": [],
+      "citations": 23,
+      "url": "https://inspirehep.net/literature/2922794"
+    },
+    {
+      "id": "2908599",
+      "title": "Transverse-momentum-dependent pion structures from lattice QCD: Collins-Soper kernel, soft factor, TMDWF, and TMDPDF",
+      "authors": [
+        {
+          "name": "Bollweg, Dennis",
+          "self": false
+        },
+        {
+          "name": "Gao, Xiang",
+          "self": false
+        },
+        {
+          "name": "He, Jinchen",
+          "self": true
+        },
+        {
+          "name": "Mukherjee, Swagato",
+          "self": false
+        },
+        {
+          "name": "Zhao, Yong",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2504.04625"
+      ],
+      "dois": [
+        "10.1103/j3n6-8kxy"
+      ],
+      "date": "2025-04-06",
+      "publication_info": [
+        {
+          "journal_volume": "112",
+          "artid": "034501",
+          "material": "publication",
+          "year": 2025,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1613970"
+          },
+          "journal_issue": "3",
+          "journal_title": "Phys.Rev.D"
+        }
+      ],
+      "collaborations": [],
+      "citations": 38,
+      "url": "https://inspirehep.net/literature/2908599"
+    },
+    {
+      "id": "2907481",
+      "title": "Lattice QCD determination of unpolarized TMDPDFs of the nucleon",
+      "authors": [
+        {
+          "name": "Zhang, Qi-An",
+          "self": false
+        },
+        {
+          "name": "He, Jin-Chen",
+          "self": true
+        },
+        {
+          "name": "Chu, Min-Huan",
+          "self": false
+        },
+        {
+          "name": "Hua, Jun",
+          "self": false
+        },
+        {
+          "name": "Ji, Xiangdong",
+          "self": false
+        },
+        {
+          "name": "Schäfer, Andreas",
+          "self": false
+        },
+        {
+          "name": "Su, Yushan",
+          "self": false
+        },
+        {
+          "name": "Wang, Wei",
+          "self": false
+        },
+        {
+          "name": "Yang, Yi-Bo",
+          "self": false
+        },
+        {
+          "name": "Zhang, Jian-Hui",
+          "self": false
+        }
+      ],
+      "arxiv": [],
+      "dois": [
+        "10.22323/1.465.0052"
+      ],
+      "date": "2025-03-12",
+      "publication_info": [
+        {
+          "journal_volume": "QNP2024",
+          "artid": "052",
+          "conference_record": {
+            "$ref": "https://inspirehep.net/api/conferences/2755258"
+          },
+          "year": 2025,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1213080"
+          },
+          "journal_title": "PoS",
+          "cnum": "C24-07-08.6"
+        }
+      ],
+      "collaborations": [],
+      "citations": 4,
+      "url": "https://inspirehep.net/literature/2907481"
+    },
+    {
+      "id": "2817213",
+      "title": "Systematic Uncertainties from Gribov Copies in Lattice Calculation of Parton Distributions in the Coulomb Gauge",
+      "authors": [
+        {
+          "name": "Gao, Xiang",
+          "self": false
+        },
+        {
+          "name": "He, Jinchen",
+          "self": true
+        },
+        {
+          "name": "Zhang, Rui",
+          "self": false
+        },
+        {
+          "name": "Zhao, Yong",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2408.05910"
+      ],
+      "dois": [
+        "10.1088/0256-307X/41/12/121201"
+      ],
+      "date": "2024-08-11",
+      "publication_info": [
+        {
+          "journal_volume": "41",
+          "artid": "121201",
+          "year": 2024,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1214248"
+          },
+          "journal_issue": "12",
+          "journal_title": "Chin.Phys.Lett."
+        }
+      ],
+      "collaborations": [],
+      "citations": 12,
+      "url": "https://inspirehep.net/literature/2817213"
+    },
+    {
+      "id": "2816860",
+      "title": "Comment on “Nonlocal nucleon matrix elements in the rest frame”",
+      "authors": [
+        {
+          "name": "Gao, Xiang",
+          "self": false
+        },
+        {
+          "name": "He, Jinchen",
+          "self": true
+        },
+        {
+          "name": "Su, Yushan",
+          "self": false
+        },
+        {
+          "name": "Zhang, Rui",
+          "self": false
+        },
+        {
+          "name": "Zhao, Yong",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2408.04674"
+      ],
+      "dois": [
+        "10.1103/gbnw-9zrt"
+      ],
+      "date": "2024-08-07",
+      "publication_info": [
+        {
+          "journal_volume": "113",
+          "artid": "018501",
+          "material": "publication",
+          "year": 2026,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1613970"
+          },
+          "journal_issue": "1",
+          "journal_title": "Phys.Rev.D"
+        }
+      ],
+      "collaborations": [],
+      "citations": 1,
+      "url": "https://inspirehep.net/literature/2816860"
+    },
+    {
+      "id": "2667994",
+      "title": "Lattice calculation of the intrinsic soft function and the Collins-Soper kernel",
+      "authors": [
+        {
+          "name": "Chu, Min-Huan",
+          "self": false
+        },
+        {
+          "name": "He, Jin-Chen",
+          "self": true
+        },
+        {
+          "name": "Hua, Jun",
+          "self": false
+        },
+        {
+          "name": "Liang, Jian",
+          "self": false
+        },
+        {
+          "name": "Ji, Xiangdong",
+          "self": false
+        },
+        {
+          "name": "Schäfer, Andreas",
+          "self": false
+        },
+        {
+          "name": "Shu, Hai-Tao",
+          "self": false
+        },
+        {
+          "name": "Su, Yushan",
+          "self": false
+        },
+        {
+          "name": "Walter, Lisa",
+          "self": false
+        },
+        {
+          "name": "Wang, Wei",
+          "self": false
+        },
+        {
+          "name": "Wang, Ji-Hao",
+          "self": false
+        },
+        {
+          "name": "Yang, Yi-Bo",
+          "self": false
+        },
+        {
+          "name": "Zeng, Jun",
+          "self": false
+        },
+        {
+          "name": "Zhang, Qi-An",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2306.06488"
+      ],
+      "dois": [
+        "10.1007/JHEP08(2023)172"
+      ],
+      "date": "2023-06-10",
+      "publication_info": [
+        {
+          "journal_volume": "08",
+          "artid": "172",
+          "year": 2023,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1213103"
+          },
+          "page_start": "172",
+          "journal_title": "JHEP"
+        },
+        {
+          "pubinfo_freetext": "JHEP08(2023)172",
+          "material": "publication"
+        }
+      ],
+      "collaborations": [
+        "Lattice Parton (LPC)"
+      ],
+      "citations": 67,
+      "url": "https://inspirehep.net/literature/2667994"
+    },
+    {
+      "id": "2634717",
+      "title": "Transverse-momentum-dependent wave functions of the pion from lattice QCD",
+      "authors": [
+        {
+          "name": "Chu, Min-Huan",
+          "self": false
+        },
+        {
+          "name": "He, Jin-Chen",
+          "self": true
+        },
+        {
+          "name": "Hua, Jun",
+          "self": false
+        },
+        {
+          "name": "Liang, Jian",
+          "self": false
+        },
+        {
+          "name": "Ji, Xiangdong",
+          "self": false
+        },
+        {
+          "name": "Schafer, Andreas",
+          "self": false
+        },
+        {
+          "name": "Shu, Hai-Tao",
+          "self": false
+        },
+        {
+          "name": "Su, Yushan",
+          "self": false
+        },
+        {
+          "name": "Wang, Ji-Hao",
+          "self": false
+        },
+        {
+          "name": "Wang, Wei",
+          "self": false
+        },
+        {
+          "name": "Yang, Yi-Bo",
+          "self": false
+        },
+        {
+          "name": "Zeng, Jun",
+          "self": false
+        },
+        {
+          "name": "Zhang, Jian-Hui",
+          "self": false
+        },
+        {
+          "name": "Zhang, Qi-An",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2302.09961"
+      ],
+      "dois": [
+        "10.1103/PhysRevD.109.L091503"
+      ],
+      "date": "2023-02-20",
+      "publication_info": [
+        {
+          "journal_volume": "109",
+          "artid": "L091503",
+          "material": "publication",
+          "year": 2024,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1613970"
+          },
+          "journal_issue": "9",
+          "journal_title": "Phys.Rev.D"
+        }
+      ],
+      "collaborations": [
+        "Lattice Parton"
+      ],
+      "citations": 51,
+      "url": "https://inspirehep.net/literature/2634717"
+    },
+    {
+      "id": "2176728",
+      "title": "Unpolarized transverse momentum dependent parton distributions of the nucleon from lattice QCD",
+      "authors": [
+        {
+          "name": "He, Jin-Chen",
+          "self": true
+        },
+        {
+          "name": "Chu, Min-Huan",
+          "self": false
+        },
+        {
+          "name": "Hua, Jun",
+          "self": false
+        },
+        {
+          "name": "Ji, Xiangdong",
+          "self": false
+        },
+        {
+          "name": "Schäfer, Andreas",
+          "self": false
+        },
+        {
+          "name": "Su, Yushan",
+          "self": false
+        },
+        {
+          "name": "Wang, Wei",
+          "self": false
+        },
+        {
+          "name": "Yang, Yi-Bo",
+          "self": false
+        },
+        {
+          "name": "Zhang, Jian-Hui",
+          "self": false
+        },
+        {
+          "name": "Zhang, Qi-An",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2211.02340"
+      ],
+      "dois": [
+        "10.1103/PhysRevD.109.114513"
+      ],
+      "date": "2022-11-04",
+      "publication_info": [
+        {
+          "journal_volume": "109",
+          "artid": "114513",
+          "material": "publication",
+          "year": 2024,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1613970"
+          },
+          "journal_issue": "11",
+          "journal_title": "Phys.Rev.D"
+        }
+      ],
+      "collaborations": [
+        "Lattice Parton Collaboration (LPC)"
+      ],
+      "citations": 62,
+      "url": "https://inspirehep.net/literature/2176728"
+    },
+    {
+      "id": "2104883",
+      "title": "Exploring hidden-charm and hidden-strange hexaquark states from lattice QCD",
+      "authors": [
+        {
+          "name": "Liu, Hang",
+          "self": false
+        },
+        {
+          "name": "He, Jinchen",
+          "self": true
+        },
+        {
+          "name": "Liu, Liuming",
+          "self": false
+        },
+        {
+          "name": "Sun, Peng",
+          "self": false
+        },
+        {
+          "name": "Wang, Wei",
+          "self": false
+        },
+        {
+          "name": "Yang, Yi-Bo",
+          "self": false
+        },
+        {
+          "name": "Zhang, Qi-An",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2207.00183"
+      ],
+      "dois": [
+        "10.1007/s11433-023-2205-0"
+      ],
+      "date": "2022-06-30",
+      "publication_info": [
+        {
+          "journal_volume": "67",
+          "artid": "211011",
+          "year": 2024,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1211797"
+          },
+          "journal_issue": "1",
+          "journal_title": "Sci.China Phys.Mech.Astron."
+        }
+      ],
+      "collaborations": [],
+      "citations": 18,
+      "url": "https://inspirehep.net/literature/2104883"
+    },
+    {
+      "id": "2016788",
+      "title": "Pion and Kaon Distribution Amplitudes from Lattice QCD",
+      "authors": [
+        {
+          "name": "Hua, Jun",
+          "self": false
+        },
+        {
+          "name": "Chu, Min-Huan",
+          "self": false
+        },
+        {
+          "name": "He, Jin-Chen",
+          "self": true
+        },
+        {
+          "name": "Ji, Xiangdong",
+          "self": false
+        },
+        {
+          "name": "Schäfer, Andreas",
+          "self": false
+        },
+        {
+          "name": "Su, Yushan",
+          "self": false
+        },
+        {
+          "name": "Sun, Peng",
+          "self": false
+        },
+        {
+          "name": "Wang, Wei",
+          "self": false
+        },
+        {
+          "name": "Xu, Ji",
+          "self": false
+        },
+        {
+          "name": "Yang, Yi-Bo",
+          "self": false
+        },
+        {
+          "name": "Yao, Fei",
+          "self": false
+        },
+        {
+          "name": "Zhang, Jian-Hui",
+          "self": false
+        },
+        {
+          "name": "Zhang, Qi-An",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2201.09173"
+      ],
+      "dois": [
+        "10.1103/PhysRevLett.129.132001"
+      ],
+      "date": "2022-01-22",
+      "publication_info": [
+        {
+          "journal_volume": "129",
+          "artid": "132001",
+          "material": "publication",
+          "year": 2022,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1214495"
+          },
+          "journal_issue": "13",
+          "journal_title": "Phys.Rev.Lett."
+        }
+      ],
+      "collaborations": [
+        "Lattice Parton"
+      ],
+      "citations": 113,
+      "url": "https://inspirehep.net/literature/2016788"
+    },
+    {
+      "id": "1857791",
+      "title": "Detailed analysis of excited-state systematics in a lattice QCD calculation of gA",
+      "authors": [
+        {
+          "name": "He, Jinchen",
+          "self": true
+        },
+        {
+          "name": "Brantley, David A.",
+          "self": false
+        },
+        {
+          "name": "Chang, Chia Cheng",
+          "self": false
+        },
+        {
+          "name": "Chernyshev, Ivan",
+          "self": false
+        },
+        {
+          "name": "Berkowitz, Evan",
+          "self": false
+        },
+        {
+          "name": "Howarth, Dean",
+          "self": false
+        },
+        {
+          "name": "Körber, Christopher",
+          "self": false
+        },
+        {
+          "name": "Meyer, Aaron S.",
+          "self": false
+        },
+        {
+          "name": "Monge-Camacho, Henry",
+          "self": false
+        },
+        {
+          "name": "Rinaldi, Enrico",
+          "self": false
+        },
+        {
+          "name": "Bouchard, Chris",
+          "self": false
+        },
+        {
+          "name": "Clark, M.A.",
+          "self": false
+        },
+        {
+          "name": "Gambhir, Arjun Singh",
+          "self": false
+        },
+        {
+          "name": "Monahan, Christopher J.",
+          "self": false
+        },
+        {
+          "name": "Nicholson, Amy",
+          "self": false
+        },
+        {
+          "name": "Vranas, Pavlos",
+          "self": false
+        },
+        {
+          "name": "Walker-Loud, André",
+          "self": false
+        }
+      ],
+      "arxiv": [
+        "2104.05226"
+      ],
+      "dois": [
+        "10.1103/PhysRevC.105.065203"
+      ],
+      "date": "2021-04-12",
+      "publication_info": [
+        {
+          "journal_volume": "105",
+          "pubinfo_freetext": "Phys. Rev. C 105, 065203 (2022)",
+          "artid": "065203",
+          "material": "publication",
+          "year": 2022,
+          "journal_record": {
+            "$ref": "https://inspirehep.net/api/journals/1613969"
+          },
+          "journal_issue": "6",
+          "journal_title": "Phys.Rev.C"
+        }
+      ],
+      "collaborations": [],
+      "citations": 23,
+      "url": "https://inspirehep.net/literature/1857791"
+    }
+  ],
+  "html": "<ul class=\"inspire-publications\">\n<li data-inspire-id=\"3208418\"><a href=\"https://inspirehep.net/literature/3208418\">LaMET-Agent: An Agent Framework for Large-Momentum Effective Theory Analysis</a>. <strong>Jinchen He</strong>, Xiangyu Jiang, Fei Yao, Dian-Jun Zhao. <a href=\"https://arxiv.org/abs/2609.32225\">arXiv:2609.32225</a>. INSPIRE citations: 0.</li>\n<li data-inspire-id=\"3118925\"><a href=\"https://inspirehep.net/literature/3118925\">Nucleon Parton Distribution Functions from Boosted Correlations in the Coulomb gauge</a>. Xiang Gao, <strong>Jinchen He</strong>, Joshua Lin, Swagato Mukherjee, Peter Petreczky, Rui Zhang, Yong Zhao. <a href=\"https://arxiv.org/abs/2602.11283\">arXiv:2602.11283</a>. INSPIRE citations: 11.</li>\n<li data-inspire-id=\"3076634\"><a href=\"https://inspirehep.net/literature/3076634\">Neural Field Transformations for Hybrid Monte Carlo: Architectural Design and Scaling</a>. <strong>Jinchen He</strong>, Xiao-Yong Jin, James C. Osborn, Yong Zhao. <a href=\"https://arxiv.org/abs/2511.02018\">arXiv:2511.02018</a>. INSPIRE citations: 0. <a href=\"/notes/NIPS_ml4ps_2025.pdf\">Poster</a>.</li>\n<li data-inspire-id=\"2983629\"><a href=\"https://inspirehep.net/literature/2983629\">Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics Research Benchmark</a>. Minhui Zhu, Minyang Tian, Xiaocheng Yang, Tianci Zhou, Lifan Yuan, Penghao Zhu, Eli Chertkov, Shengyan Liu, Yufeng Du, Ziming Ji, <strong>Jinchen He</strong>, et al. <a href=\"https://arxiv.org/abs/2509.26574\">arXiv:2509.26574</a>. INSPIRE citations: 5.</li>\n<li data-inspire-id=\"2922794\"><a href=\"https://inspirehep.net/literature/2922794\">Large-momentum effective theory’s asymptotic extrapolation vs the inverse problem</a>. Jiunn-Wei Chen, Xiang Gao, <strong>Jinchen He</strong>, Jun Hua, Xiangdong Ji, Andreas Schäfer, Yushan Su, Wei Wang, Yi-Bo Yang, Jian-Hui Zhang, et al. Phys.Rev.D 113 (2026) 014509. <a href=\"https://arxiv.org/abs/2505.14619\">arXiv:2505.14619</a>. <a href=\"https://doi.org/10.1103/fflw-qpcc\">DOI</a>. INSPIRE citations: 23.</li>\n<li data-inspire-id=\"2908599\"><a href=\"https://inspirehep.net/literature/2908599\">Transverse-momentum-dependent pion structures from lattice QCD: Collins-Soper kernel, soft factor, TMDWF, and TMDPDF</a>. Dennis Bollweg, Xiang Gao, <strong>Jinchen He</strong>, Swagato Mukherjee, Yong Zhao. Phys.Rev.D 112 (2025) 034501. <a href=\"https://arxiv.org/abs/2504.04625\">arXiv:2504.04625</a>. <a href=\"https://doi.org/10.1103/j3n6-8kxy\">DOI</a>. INSPIRE citations: 38. <a href=\"https://github.com/Greyyy-HJC/LaMETLat\">LaMETLat</a>.</li>\n<li data-inspire-id=\"2907481\"><a href=\"https://inspirehep.net/literature/2907481\">Lattice QCD determination of unpolarized TMDPDFs of the nucleon</a>. Qi-An Zhang, <strong>Jin-Chen He</strong>, Min-Huan Chu, Jun Hua, Xiangdong Ji, Andreas Schäfer, Yushan Su, Wei Wang, Yi-Bo Yang, Jian-Hui Zhang. PoS QNP2024 (2025) 052. <a href=\"https://doi.org/10.22323/1.465.0052\">DOI</a>. INSPIRE citations: 4.</li>\n<li data-inspire-id=\"2817213\"><a href=\"https://inspirehep.net/literature/2817213\">Systematic Uncertainties from Gribov Copies in Lattice Calculation of Parton Distributions in the Coulomb Gauge</a>. Xiang Gao, <strong>Jinchen He</strong>, Rui Zhang, Yong Zhao. Chin.Phys.Lett. 41 (2024) 121201. <a href=\"https://arxiv.org/abs/2408.05910\">arXiv:2408.05910</a>. <a href=\"https://doi.org/10.1088/0256-307X/41/12/121201\">DOI</a>. INSPIRE citations: 12.</li>\n<li data-inspire-id=\"2816860\"><a href=\"https://inspirehep.net/literature/2816860\">Comment on “Nonlocal nucleon matrix elements in the rest frame”</a>. Xiang Gao, <strong>Jinchen He</strong>, Yushan Su, Rui Zhang, Yong Zhao. Phys.Rev.D 113 (2026) 018501. <a href=\"https://arxiv.org/abs/2408.04674\">arXiv:2408.04674</a>. <a href=\"https://doi.org/10.1103/gbnw-9zrt\">DOI</a>. INSPIRE citations: 1.</li>\n<li data-inspire-id=\"2667994\"><a href=\"https://inspirehep.net/literature/2667994\">Lattice calculation of the intrinsic soft function and the Collins-Soper kernel</a>. Min-Huan Chu, <strong>Jin-Chen He</strong>, Jun Hua, Jian Liang, Xiangdong Ji, Andreas Schäfer, Hai-Tao Shu, Yushan Su, Lisa Walter, Wei Wang, et al. Lattice Parton (LPC). JHEP 08 (2023) 172. <a href=\"https://arxiv.org/abs/2306.06488\">arXiv:2306.06488</a>. <a href=\"https://doi.org/10.1007/JHEP08(2023)172\">DOI</a>. INSPIRE citations: 67.</li>\n<li data-inspire-id=\"2634717\"><a href=\"https://inspirehep.net/literature/2634717\">Transverse-momentum-dependent wave functions of the pion from lattice QCD</a>. Min-Huan Chu, <strong>Jin-Chen He</strong>, Jun Hua, Jian Liang, Xiangdong Ji, Andreas Schafer, Hai-Tao Shu, Yushan Su, Ji-Hao Wang, Wei Wang, et al. Lattice Parton. Phys.Rev.D 109 (2024) L091503. <a href=\"https://arxiv.org/abs/2302.09961\">arXiv:2302.09961</a>. <a href=\"https://doi.org/10.1103/PhysRevD.109.L091503\">DOI</a>. INSPIRE citations: 51.</li>\n<li data-inspire-id=\"2176728\"><a href=\"https://inspirehep.net/literature/2176728\">Unpolarized transverse momentum dependent parton distributions of the nucleon from lattice QCD</a>. <strong>Jin-Chen He</strong>, Min-Huan Chu, Jun Hua, Xiangdong Ji, Andreas Schäfer, Yushan Su, Wei Wang, Yi-Bo Yang, Jian-Hui Zhang, Qi-An Zhang. Lattice Parton Collaboration (LPC). Phys.Rev.D 109 (2024) 114513. <a href=\"https://arxiv.org/abs/2211.02340\">arXiv:2211.02340</a>. <a href=\"https://doi.org/10.1103/PhysRevD.109.114513\">DOI</a>. INSPIRE citations: 62.</li>\n<li data-inspire-id=\"2104883\"><a href=\"https://inspirehep.net/literature/2104883\">Exploring hidden-charm and hidden-strange hexaquark states from lattice QCD</a>. Hang Liu, <strong>Jinchen He</strong>, Liuming Liu, Peng Sun, Wei Wang, Yi-Bo Yang, Qi-An Zhang. Sci.China Phys.Mech.Astron. 67 (2024) 211011. <a href=\"https://arxiv.org/abs/2207.00183\">arXiv:2207.00183</a>. <a href=\"https://doi.org/10.1007/s11433-023-2205-0\">DOI</a>. INSPIRE citations: 18.</li>\n<li data-inspire-id=\"2016788\"><a href=\"https://inspirehep.net/literature/2016788\">Pion and Kaon Distribution Amplitudes from Lattice QCD</a>. Jun Hua, Min-Huan Chu, <strong>Jin-Chen He</strong>, Xiangdong Ji, Andreas Schäfer, Yushan Su, Peng Sun, Wei Wang, Ji Xu, Yi-Bo Yang, et al. Lattice Parton. Phys.Rev.Lett. 129 (2022) 132001. <a href=\"https://arxiv.org/abs/2201.09173\">arXiv:2201.09173</a>. <a href=\"https://doi.org/10.1103/PhysRevLett.129.132001\">DOI</a>. INSPIRE citations: 113.</li>\n<li data-inspire-id=\"1857791\"><a href=\"https://inspirehep.net/literature/1857791\">Detailed analysis of excited-state systematics in a lattice QCD calculation of gA</a>. <strong>Jinchen He</strong>, David A. Brantley, Chia Cheng Chang, Ivan Chernyshev, Evan Berkowitz, Dean Howarth, Christopher Körber, Aaron S. Meyer, Henry Monge-Camacho, Enrico Rinaldi, et al. Phys.Rev.C 105 (2022) 065203. <a href=\"https://arxiv.org/abs/2104.05226\">arXiv:2104.05226</a>. <a href=\"https://doi.org/10.1103/PhysRevC.105.065203\">DOI</a>. INSPIRE citations: 23. <a href=\"https://github.com/callat-qcd/project_fh_vs_3pt\">Git repo</a>.</li>\n</ul>",
+  "total_citations": 428,
+  "updated": "2026-10-01T00:55:11.008156+00:00",
+  "schema_version": 1
+}

@@ -1,7 +1,7 @@
 <span class='anchor' id='-educations'></span>
 
-# 📖 Educations
-- *2022.09 - 2026.07*, University of Maryland, College Park, Doctoral of Philosophy (Ph.D.) in Physics [\[thesis\]](notes/PhD_Thesis_Jinchen.pdf) [\[defense slides\]](notes/Defense_Jinchen.pdf)
+# 📖 Education
+- *2022.09 - 2026.07*, University of Maryland, College Park, Doctor of Philosophy (Ph.D.) in Physics [\[thesis\]](/notes/PhD_Thesis_Jinchen.pdf) [\[defense slides\]](/slides/2026-04-08-doctoral-defense-jinchen-he.pdf)
 - *2020.01 - 2020.06*, University of California, Berkeley, Exchange student in Physics
 - *2017.09 - 2021.06*, University of Chinese Academy of Sciences, Bachelor of Science (B.S.) in Physics
 
@@ -10,21 +10,25 @@
 - *2024.08 - 2026.07*, Research Assistant, Argonne National Laboratory
 - *2022.09 - 2026.07*, Graduate Assistant, University of Maryland, College Park
 - *2021.07 - 2022.07*, Research Assistant, Shanghai Jiao Tong University
-<!-- - *2022.09 - 2022.12*, Teaching Assistant, PHYS 410, Classical Mechanics, University of Maryland, College Park
+
+<!--
+- *2022.09 - 2022.12*, Teaching Assistant, PHYS 410, Classical Mechanics, University of Maryland, College Park
 - *2021.04 - 2021.07*, Peer Academic Counselor, University of Chinese Academy of Sciences
 - *2021.01 - 2021.04*, Online Tutor, Group Theory, University of Chinese Academy of Sciences -->
 
+<span class='anchor' id='-notes'></span>
+
 # 📒 Notes
-- [PHYS610 - Classical Mechanics - Midterm 1](notes/610_mid1_review.pdf)
-- [PHYS610 - Classical Mechanics - Midterm 2](notes/610_mid2_review.pdf)
-- [PHYS610 - Classical Mechanics - Final](notes/610_final_review.pdf)
-- [PHYS612 - Quantum Mechanics - Midterm 1](notes/612_mid1_review.pdf)
-- [PHYS612 - Quantum Mechanics - Midterm 2](notes/612_mid2_review.pdf)
-- [PHYS612 - Quantum Mechanics - Final](notes/612_final_review.pdf)
-- [Time Independent Perturbation Theory](notes/Time_indep_PT.pdf)
-- [Wigner-Eckart Theorem](notes/Wigner_Eckart_Theorem.pdf)
-- [Quantum Mechanics Scattering Theory](notes/QM_scattering.pdf)
-- [Discrete Symmetry](notes/Discrete_symmetry.pdf)
-- [Fit function on Lattice QCD](notes/Fit_func_on_lattice.pdf)
-- [Beta function of QED](notes/Beta_function_of_QED.pdf)
-- [Plus distribution in QCD](notes/Plus_distribution_in_QCD.pdf)
+- [PHYS610 - Classical Mechanics - Midterm 1](/notes/610_mid1_review.pdf)
+- [PHYS610 - Classical Mechanics - Midterm 2](/notes/610_mid2_review.pdf)
+- [PHYS610 - Classical Mechanics - Final](/notes/610_final_review.pdf)
+- [PHYS612 - Quantum Mechanics - Midterm 1](/notes/612_mid1_review.pdf)
+- [PHYS612 - Quantum Mechanics - Midterm 2](/notes/612_mid2_review.pdf)
+- [PHYS612 - Quantum Mechanics - Final](/notes/612_final_review.pdf)
+- [Time Independent Perturbation Theory](/notes/Time_indep_PT.pdf)
+- [Wigner-Eckart Theorem](/notes/Wigner_Eckart_Theorem.pdf)
+- [Quantum Mechanics Scattering Theory](/notes/QM_scattering.pdf)
+- [Discrete Symmetry](/notes/Discrete_symmetry.pdf)
+- [Fit function on Lattice QCD](/notes/Fit_func_on_lattice.pdf)
+- [Beta function of QED](/notes/Beta_function_of_QED.pdf)
+- [Plus distribution in QCD](/notes/Plus_distribution_in_QCD.pdf)
