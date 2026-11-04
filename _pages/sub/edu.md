@@ -1,12 +1,12 @@
 <span class='anchor' id='-educations'></span>
 
 # 📖 Education
-- *2022.09 - 2026.07*, University of Maryland, College Park, Doctor of Philosophy (Ph.D.) in Physics [\[thesis\]](/notes/PhD_Thesis_Jinchen.pdf) [\[defense slides\]](/slides/2026-04-08-doctoral-defense-jinchen-he.pdf)
+- *2022.09 - 2026.08*, University of Maryland, College Park, Doctor of Philosophy (Ph.D.) in Physics [\[thesis\]](/notes/PhD_Thesis_Jinchen.pdf) [\[defense slides\]](/slides/2026-04-08-doctoral-defense-jinchen-he.pdf)
 - *2020.01 - 2020.06*, University of California, Berkeley, Exchange student in Physics
 - *2017.09 - 2021.06*, University of Chinese Academy of Sciences, Bachelor of Science (B.S.) in Physics
 
 # 📄 Appointments
-- *2026.08 - 2029.08*, Postdoctoral Researcher, Fermi National Accelerator Laboratory
+- *2026.08 - 2029.08*, Fixed Term Full time Research Associate, Fermi National Accelerator Laboratory
 - *2024.08 - 2026.07*, Research Assistant, Argonne National Laboratory
 - *2022.09 - 2026.07*, Graduate Assistant, University of Maryland, College Park
 - *2021.07 - 2022.07*, Research Assistant, Shanghai Jiao Tong University

@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Jinchen He, postdoctoral researcher at Fermilab working on lattice QCD, hadron structure, and AI for physics."
+excerpt: "Jinchen He, Fixed Term Full time Research Associate at Fermilab working on lattice QCD, hadron structure, and AI for physics."
 author_profile: true
 redirect_from: 
   - /main/
@@ -12,7 +12,7 @@ redirect_from:
 
 # 👁️‍🗨️ About Me
 
-I am Jinchen He, a postdoctoral researcher in the theory group at Fermilab. My research focuses on lattice QCD, hadron structure, and AI for physics. I also have interests in philosophy and data science.
+I am Jinchen He, a Fixed Term Full time Research Associate in the theory group at Fermilab. My research focuses on lattice QCD, hadron structure, and AI for physics. I also have interests in philosophy and data science.
 
 <p class="home-cv-link"><a class="btn btn--primary" href="/notes/Jinchen_CV_updated.pdf">Download CV (PDF)</a></p>
 
