@@ -2,6 +2,8 @@
 
 # 📰 News & Updates
 
+- **2026.11 · New Preprint**: Our lattice QCD study of the unpolarized proton parton distribution at physical quark masses and large momenta is available on [arXiv:2611.12730](https://arxiv.org/abs/2611.12730).
+
 - **2026.10.05 · Published in JHEP**: Our paper, “Nucleon parton distribution functions from boosted correlations in the Coulomb gauge,” has been published in [JHEP 10 (2026) 041](https://doi.org/10.1007/JHEP10(2026)041). [\[arXiv:2602.11283\]](https://arxiv.org/abs/2602.11283)
 
 - **2026.08 · New Position**: I joined the theory group at Fermilab as a Fixed Term Full time Research Associate in August 2026, working on lattice QCD and AI for physics.
